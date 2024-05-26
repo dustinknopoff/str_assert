@@ -96,7 +96,7 @@ mod tests {
     #[test]
     #[should_panic]
     fn has_diff() {
-        str_assert_eq!("Lorem ipsum doleret", "Lorem ipsum dolert", "Eror");
+        str_assert_eq!("Lorem ipsum doleret", "Lorem ipsum dolert", "Error");
     }
 
     #[test]
