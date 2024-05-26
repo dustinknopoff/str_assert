@@ -5,6 +5,7 @@ authors = ["Dustin Knopoff <rust@knopoff.dev>"]
 edition = "2021"
 license = "MIT"
 repository = "https://github.com/dustinknopoff/str_assert"
+description = "Thin wrapper around stdlib assert_eq macros using dissimilar as the comparison. (Only for strings)"
 
 # See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
 
