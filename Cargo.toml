@@ -3,7 +3,7 @@ name = "str_assert"
 version = "0.2.0"
 authors = ["Dustin Knopoff <rust@knopoff.dev>"]
 edition = "2021"
-license = "Apache 2.0"
+license = "Apache-2.0"
 repository = "https://github.com/dustinknopoff/str_assert"
 description = "Thin wrapper around stdlib assert_eq macros using dissimilar as the comparison. (Only for strings)"
 
